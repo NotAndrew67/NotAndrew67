@@ -13,11 +13,15 @@
 
 <img align="right" src="profile.jpg" width="220" alt="haze artwork" />
 
-Yoo, wassup! Gue **Azzam** a.k.a **NotAndrew67**.
+Yoww, wazzup everyone! My name is Muhammad Azzam Aulawy, but most people know me as **Azzam** or **NotAndrew67**. I'm from Kudus, Central Java, a city where I began my journey in technology and software development.
 
-Pelajar jurusan programming yang lagi belajar berbagai bahasa pemrograman: Dart, Java, HTML, CSS, sama JavaScript. Masih tahap nyoba-nyoba dan banyak error, tapi lumayan seru.
+Currently, I'm studying at **Raden Umar Said Vocational High School** as an 11th-grade student in the **Software Engineering & Game Development** program.
 
-Di luar ngoding, gue suka banget dengerin musik. Biasanya muter lagu sambil nulis kode, apalagi yang gitarnya berlapis dan agak buram kayak My Bloody Valentine. Kalau lo suka musik juga, sini ngobrol.
+I'm passionate about becoming a **Full-Stack Software Developer**, with a growing interest in both **web and mobile application development**. Right now, I'm actively learning technologies such as **Dart, Java, JavaScript, HTML, and CSS**, while building projects to strengthen my understanding of software engineering principles and problem-solving.
+
+Beyond coding, music is a big part of my life. I enjoy listening to music while programming, especially bands with atmospheric and layered guitar sounds like **My Bloody Valentine**. I also spend time learning drums and guitar, which helps me develop creativity, consistency, and discipline.
+
+My goal is to continuously improve my technical skills, create impactful applications, and pursue a career as a software engineer who can build solutions across multiple platforms.
 
 <br clear="right"/>
 
