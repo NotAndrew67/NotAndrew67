@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Welcome to Azzam's GitHub" />
+  <img src="assets/banner.svg" width="100%" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
       </p>
     </td>
     <td valign="middle" align="center" width="38%">
-      <img src="haze.svg" width="230" alt="haze artwork" />
+      <img src="assets/haze.svg" width="230" alt="haze artwork" />
     </td>
   </tr>
 </table>
@@ -68,6 +68,13 @@
 <br/>
 
 <h2 align="center">📊 Statistics</h2>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats-three-brown-26.vercel.app/api?username=NotAndrew67&show_icons=true&hide_border=true&bg_color=0d0a14&title_color=ff5fa2&text_color=d9c8f0&icon_color=b388ff&ring_color=ff5fa2" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-three-brown-26.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&hide_border=true&bg_color=0d0a14&title_color=ff5fa2&text_color=d9c8f0" alt="Top Languages" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=NotAndrew67&background=0D0A14&ring=FF5FA2&fire=FF8A3D&currStreakLabel=F7A8D8&sideLabels=D9C8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B388FF&stroke=3A2A55&hide_border=true" alt="Streak" />
