@@ -21,16 +21,6 @@ Di luar ngoding, gue suka banget dengerin musik. Biasanya muter lagu sambil nuli
 
 <br clear="right"/>
 
-<h2 align="center">🎧 Now Playing</h2>
-
-<div align="center">
-  <a href="https://open.spotify.com/track/30cZUKuqAhER4a9gWIPXn3">
-    <img src="nowplaying.svg" width="520" alt="My Bloody Valentine - When You Sleep" />
-  </a>
-  <br/>
-  <sub><i>klik buat dengerin · best listened to loud</i></sub>
-</div>
-
 <h2 align="center">⚙️ Technologies</h2>
 
 <p align="center">
