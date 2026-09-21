@@ -4,51 +4,53 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-IT%20Student-%23007bff?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20&%20Systems-%23ff9f43?style=flat-square&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Grindset%20&%20Code-%23ff9f43?style=flat-square&logo=gnome&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-GNU%2FLinux-%23f1c40f?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🚀 Mission Control
+## ⚡ What's Poppin'
 
-Pelajar IT yang hobi ngulik teknologi, backend, dan hal-hal seru seputar dunia programming! 🚀
+Pelajar IT yang lagi hobi-hobinya nyemplung ke dunia koding, merintis fondasi web, mobile, dan backend dari nol. Menikmati setiap proses *debugging* yang bikin pusing tapi seru! 🚀
 
 <div align="center">
 
-| Ikon | Fokus Saat Ini | Deskripsi |
+| Vibe / Aktivitas | Lagi Fokus Ke Mana? | Deskripsi Santai |
 | :--- | :--- | :--- |
-| ☕ | **Ngopi & Ngoding** | Menghabiskan waktu memahami logika pemrograman dan arsitektur sistem. |
-| 🧠 | **Low-Level Knowledge** | Sedang tertarik mempelajari bagaimana komputer bekerja di balik layar. |
-| 🛠️ | **Personal Projects** | Mencoba menerapkan teori ke dalam proyek-proyek nyata yang bermanfaat. |
+| ☕ **Fuel & Code** | **Ngejar Fundamental** | Lagi lahap-lahapnya belajar Dart, Java, HTML, CSS, sampe JavaScript. |
+| 💻 **Local Server** | **Web & Tools Setup** | Nyoba-nyoba environment lokal pakai Laragon biar lancar jaya. |
+| 🛠️ **Trial & Error** | **Bikin Project Iseng** | Nerapin teori ke project nyata, tujuannya satu: biar kodenya gak error mulu. |
 
 </div>
 
 ---
 
-## 📊 Command Center Stats
+## 📊 Stats & Grinds
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NotAndrew67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
-## 🛠️ Tech Stack & Tools
+---
 
-### Languages & Frameworks
+## 🛠️ Tech Stack & Arsenal
+
+### Languages & Web Basics
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white" />
 </p>
 
-### Databases & Tools
+### Tools & Environment
 <p align="center">
+  <img src="https://img.shields.io/badge/Laragon-E31C25.svg?style=for-the-badge&logo= Laragon&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
 </p>
@@ -57,6 +59,7 @@ Pelajar IT yang hobi ngulik teknologi, backend, dan hal-hal seru seputar dunia p
 
 ## 📭 Hit Me Up!
 
+<p align="center">
   <a href="https://www.instagram.com/zamaulwy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:azzamaulawy90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
