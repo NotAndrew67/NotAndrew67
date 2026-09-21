@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Welcome to Azzam's GitHub" />
+  <img src="banner.svg" width="100%" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
