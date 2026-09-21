@@ -40,10 +40,10 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/30cZUKuqAhER4a9gWIPXn3">
-    <img src="https://github-readme-spotify-status.vercel.app/api/track?spotify_id=30cZUKuqAhER4a9gWIPXn3&theme=compact&animated=true" alt="My Bloody Valentine - When You Sleep" />
+    <img src="assets/nowplaying.svg" width="520" alt="My Bloody Valentine - When You Sleep" />
   </a>
   <br/>
-  <sub><i>My Bloody Valentine · When You Sleep · best listened to loud</i></sub>
+  <sub><i>klik buat dengerin · best listened to loud</i></sub>
 </div>
 
 <br/>
@@ -70,12 +70,9 @@
 <h2 align="center">📊 Statistics</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NotAndrew67&show_icons=true&hide_border=true&bg_color=0d0a14&title_color=ff5fa2&text_color=d9c8f0&icon_color=b388ff&ring_color=ff5fa2" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=NotAndrew67&background=0D0A14&ring=FF5FA2&fire=FF8A3D&currStreakLabel=F7A8D8&sideLabels=D9C8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B388FF&stroke=3A2A55&hide_border=true" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&hide_border=true&bg_color=0d0a14&title_color=ff5fa2&text_color=d9c8f0" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=NotAndrew67&background=0D0A14&ring=FF5FA2&fire=FF8A3D&currStreakLabel=F7A8D8&sideLabels=D9C8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B388FF&stroke=3A2A55&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://img.shields.io/github/followers/NotAndrew67?style=for-the-badge&labelColor=1a1025&color=ff5fa2" alt="Followers" />
 </div>
 
 <br/>
