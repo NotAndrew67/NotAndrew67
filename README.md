@@ -25,21 +25,43 @@ My goal is to continuously improve my technical skills, create impactful applica
 
 <br clear="right"/>
 
-<h2 align="center">⚙️ Technologies</h2>
+<h2 align="center">⚙️ Technologies & Tools</h2>
 
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e8324f?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-7c5cff?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-ff5fa2?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-b388ff?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ff8a3d?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
+
+<h3 align="center">🌐 Web Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Laragon-e8324f?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-7c5cff?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-ff5fa2?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-b388ff?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-ff8a3d?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-e8324f?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-7c5cff?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-ff8a3d?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-b388ff?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+<h3 align="center">📱 Mobile Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-e8324f?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-7c5cff?style=for-the-badge&logo=android&logoColor=white" />
+</p>
+
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-ff8a3d?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-b388ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<h3 align="center">🛠️ Tools & Environment</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-e8324f?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-7c5cff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-ff8a3d?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-b388ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-e8324f?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-7c5cff?style=for-the-badge&logoColor=white" />
 </p>
 
 <h2 align="center">📊 Statistics</h2>
