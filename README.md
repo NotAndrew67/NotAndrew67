@@ -1,5 +1,5 @@
 <p align="center">
-<img src="background.jpg" width="560" alt="Welcome to Azzam's GitHub" />
+  <img src="background.jpg" width="100%" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
@@ -13,12 +13,11 @@
 
 <img align="right" src="haze.svg" width="220" alt="haze artwork" />
 
-Hello, gue **Muhammad Azzam Aulawy** (a.k.a **NotAndrew67**), pelajar IT yang lagi nyemplung ke dunia koding dari nol.
-Gue juga anak seni, jadi buat gue kode itu kanvas: ada komposisi, ritme, dan ruang kosong yang harus dipikirin.
+Yoo, wassup! Gue **Azzam** a.k.a **NotAndrew67**.
 
-Debugging itu kayak nambah layer distorsi sampe hasilnya pas. Pusing, tapi seru.
+Pelajar jurusan programming yang lagi belajar berbagai bahasa pemrograman: Dart, Java, HTML, CSS, sama JavaScript. Masih tahap nyoba-nyoba dan banyak error, tapi lumayan seru.
 
-🎨 **Visual art** · 💻 **Web, Mobile, Backend** · 🎧 **Shoegaze & noise**
+Di luar ngoding, gue suka banget dengerin musik. Biasanya muter lagu sambil nulis kode, apalagi yang gitarnya berlapis dan agak buram kayak My Bloody Valentine. Kalau lo suka musik juga, sini ngobrol.
 
 <br clear="right"/>
 
