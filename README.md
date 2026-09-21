@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&lines=Hello+What's+Up!;Muhammad+Azzam+Aulawy;a.k.a+NotAndrew67" alt="Nothing Phone Style Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&lines=What's+Up!+Mate;Muhammad+Azzam+Aulawy;a.k.a+NotAndrew67" alt="Nothing Phone Style Typing" />
 </p>
 
 <p align="center">
@@ -34,10 +34,6 @@ Statistik ini diambil secara *real-time* dari aktivitas GitHub-ku.
   <img src="https://github-readme-stats.vercel.app/api?username=NotAndrew67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
-
-> *Catatan: Jika card statistik di atas masih berbentuk ikon gambar patah, pastikan akun GitHub-mu sudah memiliki minimal beberapa aktivitas commit/repository publik agar datanya terbaca oleh server statistik.*
-
----
 
 ## 🛠️ Tech Stack & Tools
 
