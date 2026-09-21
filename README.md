@@ -11,7 +11,7 @@
 
 <h2 align="center">🌫️ About Me</h2>
 
-<img align="right" src="haze.svg" width="220" alt="haze artwork" />
+<img align="right" src="profile.jpg" width="220" alt="haze artwork" />
 
 Yoo, wassup! Gue **Azzam** a.k.a **NotAndrew67**.
 
