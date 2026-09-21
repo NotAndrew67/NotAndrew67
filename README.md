@@ -28,8 +28,6 @@ Pelajar IT yang hobi ngulik teknologi, backend, dan hal-hal seru seputar dunia p
 
 ## 📊 Command Center Stats
 
-Statistik ini diambil secara *real-time* dari aktivitas GitHub-ku.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NotAndrew67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
