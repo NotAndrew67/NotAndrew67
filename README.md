@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="background.jpg" width="100%" alt="Welcome to Azzam's GitHub" />
+<img src="background.jpg" width="560" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
