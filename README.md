@@ -37,12 +37,8 @@ Saat ini sedang fokus memperdalam ilmu di dunia **IT**, mengeksplorasi teknologi
 Statistik ini diambil secara *real-time* dari aktivitas GitHub-ku. Data menunjukkan komitmen dan pertumbuhan *skill* dari waktu ke waktu.
 
 <div align="center">
-
-<!-- Kartu GitHub Stats yang Lebih Minimalis & Transparan -->
-<img src="https://github-readme-stats.vercel.app/api?username=NotAndrew67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="NotAndrew67 GitHub Stats" />
-<!-- Kartu Top Languages yang Dibuat Lebih Padat (Compact) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" alt="NotAndrew67 Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NotAndrew67&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAndrew67&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
