@@ -57,6 +57,16 @@ Pelajar IT yang lagi hobi-hobinya nyemplung ke dunia koding, merintis fondasi we
 
 ---
 
+## 🎵 Vibe Check (Now Playing)
+
+<div align="center">
+  <a href="https://open.spotify.com/track/30cZUKuqAhER4a9gWIPXn3">
+    <img src="https://github-readme-spotify-status.vercel.app/api/track?spotify_id=30cZUKuqAhER4a9gWIPXn3&theme=compact&animated=true" alt="My Bloody Valentine - When You Sleep" />
+  </a>
+</div>
+
+---
+
 ## 📭 Hit Me Up!
 
 <p align="center">
