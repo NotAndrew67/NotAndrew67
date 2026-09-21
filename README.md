@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="background.jpg" width="500" alt="Welcome to Azzam's GitHub" />
+  <img src="background.jpg" width="560" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
@@ -9,32 +9,18 @@
   <img src="https://img.shields.io/badge/SHOEGAZE-7c5cff?style=flat-square&labelColor=1a1025" />
 </p>
 
-<br/>
-
 <h2 align="center">🌫️ About Me</h2>
 
-<table align="center">
-  <tr>
-    <td valign="middle" width="62%">
-      <p>
-        Hello, gue <b>Muhammad Azzam Aulawy</b> (a.k.a <b>NotAndrew67</b>), pelajar IT yang lagi
-        nyemplung ke dunia koding dari nol. Gue juga anak seni, jadi buat gue kode itu kanvas:
-        ada komposisi, ritme, dan ruang kosong yang harus dipikirin.
-      </p>
-      <p>
-        Debugging itu kayak nambah layer distorsi sampe hasilnya pas. Pusing, tapi seru.
-      </p>
-      <p align="center">
-        🎨 <b>Visual art</b> · 💻 <b>Web, Mobile, Backend</b> · 🎧 <b>Shoegaze &amp; noise</b>
-      </p>
-    </td>
-    <td valign="middle" align="center" width="38%">
-      <img src="haze.svg" width="230" alt="haze artwork" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="haze.svg" width="220" alt="haze artwork" />
 
-<br/>
+Hello, gue **Muhammad Azzam Aulawy** (a.k.a **NotAndrew67**), pelajar IT yang lagi nyemplung ke dunia koding dari nol.
+Gue juga anak seni, jadi buat gue kode itu kanvas: ada komposisi, ritme, dan ruang kosong yang harus dipikirin.
+
+Debugging itu kayak nambah layer distorsi sampe hasilnya pas. Pusing, tapi seru.
+
+🎨 **Visual art** · 💻 **Web, Mobile, Backend** · 🎧 **Shoegaze & noise**
+
+<br clear="right"/>
 
 <h2 align="center">🎧 Now Playing</h2>
 
@@ -45,8 +31,6 @@
   <br/>
   <sub><i>klik buat dengerin · best listened to loud</i></sub>
 </div>
-
-<br/>
 
 <h2 align="center">⚙️ Technologies</h2>
 
@@ -64,8 +48,6 @@
   <img src="https://img.shields.io/badge/Linux-b388ff?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-ff8a3d?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
-<br/>
 
 <h2 align="center">📊 Statistics</h2>
 
