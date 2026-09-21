@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="background.jpg" width="100%" alt="Welcome to Azzam's GitHub" />
+  <img src="background.jpg" width="500" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/track/30cZUKuqAhER4a9gWIPXn3">
-    <img src="assets/nowplaying.svg" width="520" alt="My Bloody Valentine - When You Sleep" />
+    <img src="nowplaying.svg" width="520" alt="My Bloody Valentine - When You Sleep" />
   </a>
   <br/>
   <sub><i>klik buat dengerin · best listened to loud</i></sub>
