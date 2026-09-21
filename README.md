@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Welcome to Azzam's GitHub" />
+  <img src="banner.svg" width="100%" alt="Welcome to Azzam's GitHub" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
       </p>
     </td>
     <td valign="middle" align="center" width="38%">
-      <img src="assets/haze.svg" width="230" alt="haze artwork" />
+      <img src="haze.svg" width="230" alt="haze artwork" />
     </td>
   </tr>
 </table>
