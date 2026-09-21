@@ -75,4 +75,4 @@ Di luar ngoding, gue suka banget dengerin musik. Biasanya muter lagu sambil nuli
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=640&lines=%22I+don't+stop+when+I'm+tired%2C+I+stop+when+the+code+works.%22" alt="quote" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=110&section=footer" width="100%" alt="footer" />
+<img src="footer.svg" width="100%" alt="footer" />
