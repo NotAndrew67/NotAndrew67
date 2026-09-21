@@ -29,7 +29,7 @@
       </p>
     </td>
     <td valign="middle" align="center" width="38%">
-      <img src="assets/haze.svg" width="230" alt="haze artwork" />
+      <img src="haze.svg" width="230" alt="haze artwork" />
     </td>
   </tr>
 </table>
