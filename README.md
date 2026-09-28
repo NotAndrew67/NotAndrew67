@@ -88,7 +88,7 @@ My goal is to continuously improve my technical skills, create impactful applica
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=640&lines=%22+when+you+look+at+me.%22" alt="quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=640&lines=%22When+I+look+at+you+Oh,+but+I+don't+know+what's+real+Once+in+a+while+And+you+make+me+laugh.%22" alt="quote" />
 </p>
 
 <img src="footer.svg" width="100%" alt="footer" />
