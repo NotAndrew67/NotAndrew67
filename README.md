@@ -90,7 +90,7 @@ My goal is to continuously improve my technical skills, create impactful applica
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=800&height=40&lines=When+I+look+at+you" alt="quote" />
   <br/>
-  <a href="https://genius.com/8631751/My-bloody-valentine-when-you-sleep/When-i-look-at-you-oh-but-i-dont-know-whats-real-once-in-a-while-and-you-make-me-laugh">My Bloody Valentine, When You Sleep</a>
+   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=800&height=40&lines=Oh,+but+I+don't+know+what's+real" alt="quote" />
 </p>
 
 <img src="footer.svg" width="100%" alt="footer" />
