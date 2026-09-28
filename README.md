@@ -1,7 +1,7 @@
 <p align="center">
   <img src="background.jpg" width="100%" alt="Welcome to Azzam's GitHub" />
 </p>
-
+z
 <p align="center">
   <a href="https://www.instagram.com/zamaulwy/"><img src="https://img.shields.io/badge/INSTAGRAM-ff5fa2?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1025" /></a>
   <a href="mailto:azzamaulawy90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-e8324f?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1025" /></a>
@@ -88,7 +88,7 @@ My goal is to continuously improve my technical skills, create impactful applica
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=800&height=40&lines=TEKS+KAMU+BARIS+1;TEKS+KAMU+BARIS+2" alt="quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=2000&color=B388FF&background=00000000&center=true&vCenter=true&width=800&height=40&lines=When+I+look+at+you" alt="quote" />
   <br/>
   <a href="https://genius.com/8631751/My-bloody-valentine-when-you-sleep/When-i-look-at-you-oh-but-i-dont-know-whats-real-once-in-a-while-and-you-make-me-laugh">My Bloody Valentine, When You Sleep</a>
 </p>
