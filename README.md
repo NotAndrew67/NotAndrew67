@@ -1,7 +1,7 @@
 <p align="center">
   <img src="background.jpg" width="100%" alt="Welcome to Azzam's GitHub" />
 </p>
-z
+
 <p align="center">
   <a href="https://www.instagram.com/zamaulwy/"><img src="https://img.shields.io/badge/INSTAGRAM-ff5fa2?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1025" /></a>
   <a href="mailto:azzamaulawy90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-e8324f?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1025" /></a>
